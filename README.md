@@ -10,6 +10,8 @@ The application has a single activity screen which shows the trending repositori
 
 The application has been built based on android MVVM architecture.
 
+<img src="https://github.com/Herwin95/github-repo-trending-apk/blob/master/blob/main.jpg" width="600" height="270"> 
+
 **Application Components**
 
 * **Room** - Local Database Cache
@@ -22,8 +24,8 @@ The application has been built based on android MVVM architecture.
 **Screenshots**
 
 <p float="left">
-  <img src="https://github.com/Herwin95/github-repo-trending-apk/blob/master/blob/main.jpg" width="300" height="400"> 
-  <img src="https://github.com/Herwin95/github-repo-trending-apk/blob/master/blob/search.jpg" width="300" height="400">
+  <img src="https://github.com/Herwin95/github-repo-trending-apk/blob/master/blob/main.jpg" width="250" height="400"> 
+  <img src="https://github.com/Herwin95/github-repo-trending-apk/blob/master/blob/search.jpg" width="250" height="400">
 </p>
 
 
