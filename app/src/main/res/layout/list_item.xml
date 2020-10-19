@@ -24,8 +24,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="14sp"
-            android:layout_marginLeft="5dp"
-            android:layout_toRightOf="@id/sq_view"
             android:text="@string/square"
             android:layout_centerVertical="true"
             android:layout_toEndOf="@id/sq_view"
@@ -39,7 +37,6 @@
         android:layout_height="wrap_content"
         android:textSize="14sp"
         android:padding="5dp"
-        android:text="@string/square"
         android:textStyle="bold"
         android:textColor="@android:color/black" />
 
@@ -49,7 +46,6 @@
         android:layout_height="wrap_content"
         android:textSize="14sp"
         android:padding="5dp"
-        android:text="@string/square"
         android:textColor="@android:color/black" />
 
     <RelativeLayout
@@ -74,10 +70,6 @@
             android:textSize="14sp"
             android:gravity="center_vertical"
             android:layout_centerVertical="true"
-            android:layout_toRightOf="@id/lang_circle"
-            android:layout_toLeftOf="@id/star"
-            android:layout_marginLeft="10dp"
-            android:text="@string/square"
             android:layout_toEndOf="@id/lang_circle"
             android:layout_marginStart="10dp"
             android:layout_toStartOf="@id/star" />
@@ -88,8 +80,6 @@
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
             android:src="@drawable/ic_star"
-            android:layout_toLeftOf="@id/votes"
-            android:layout_marginRight="10dp"
             android:contentDescription="@string/lang_circle"
             android:layout_toStartOf="@id/votes"
             android:layout_marginEnd="10dp" />
@@ -101,8 +91,6 @@
             android:textSize="14sp"
             android:gravity="center"
             android:layout_centerVertical="true"
-            android:text="@string/square"
-            android:layout_alignParentRight="true"
             android:layout_alignParentEnd="true" />
 
     </RelativeLayout>

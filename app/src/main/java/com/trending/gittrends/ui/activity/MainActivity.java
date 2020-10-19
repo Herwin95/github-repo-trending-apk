@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity {
 
         initialiseSearch();
 
-        mSwipe.setColorSchemeResources(R.color.white);
+        mSwipe.setColorSchemeResources(R.color.colorPrimaryDark);
         mSwipe.setProgressBackgroundColorSchemeColor(Color.parseColor("#0366d6"));
 
         mSwipe.setOnRefreshListener(() -> mRViewModel.refreshFeed());
