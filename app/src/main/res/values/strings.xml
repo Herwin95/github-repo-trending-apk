@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Git Trends</string>
+
+    <string name="main_title">Trending Repositories</string>
+    <string name="search">Search</string>
+    <string name="square">square</string>
+    <string name="lang_circle">Language Color</string>
+    <string name="no_network">No Network Connection</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="close">Close</string>
+
+</resources>
