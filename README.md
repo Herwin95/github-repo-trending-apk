@@ -21,7 +21,7 @@ The application has been built based on android MVVM architecture.
 
 **Screenshots**
 
-![alt text](https://github.com/Herwin95/github-repo-trending-apk/blob/master/blob/main.jpg?raw=true) ![alt text](https://github.com/Herwin95/github-repo-trending-apk/blob/master/blob/search.jpg?raw=true)
+![alt text](https://github.com/Herwin95/github-repo-trending-apk/blob/master/blob/main.jpg?raw=true) {:height="700px" width="350px"} ![alt text](https://github.com/Herwin95/github-repo-trending-apk/blob/master/blob/search.jpg?raw=true) {:height="700px" width="350px"}
 
 **Thanks to the developers**
 
